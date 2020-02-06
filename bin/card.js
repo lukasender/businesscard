@@ -18,7 +18,7 @@ const data = {
   handle: chalk.cyan('lukasender'),
   work: chalk.white('Software Engineer at Lovely Systems'),
   twitter: chalk.cyan('twitter.com/lukasender'),
-  github: chalk.cyan('github.com/lumannnn'),
+  github: chalk.cyan('github.com/lukasender'),
   linkedin: chalk.cyan('linkedin.com/in/lukasender'),
   web: chalk.cyan('lukasender.at'),
   npx: chalk.white('npx lukasender'),
